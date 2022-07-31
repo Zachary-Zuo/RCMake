@@ -1,0 +1,4 @@
+AddTarget(
+  TEST
+  MODE EXE
+)
